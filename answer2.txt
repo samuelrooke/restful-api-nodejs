@@ -1,0 +1,47 @@
+"dependencies": {
+        "eslint-visitor-keys": "^3.3.0"
+        =
+"dependencies": {
+        "eslint-visitor-keys": "^3.4.3"
+
+"node_modules/@eslint-community/regexpp": {
+      "version": "4.10.1",
+      "resolved": "https://registry.npmjs.org/@eslint-community/regexpp/-/regexpp-4.10.1.tgz",
+      "integrity": "sha512-Zm2NGpWELsQAD1xsJzGQpYfvICSsFkEpU0jxBjfdC6uNEWXcHnfs9hScFWtXVDVl+rBQJGrl4g1vcKIejpH9dA==",
+      "dev": true,
+      "engines": {
+        "node": "^12.0.0 || ^14.0.0 || >=16.0.0"
+
+= 
+
+"node_modules/@eslint-community/regexpp": {
+      "version": "4.12.1",
+      "resolved": "https://registry.npmjs.org/@eslint-community/regexpp/-/regexpp-4.12.1.tgz",
+      "integrity": "sha512-CCZCDJuduB9OUkFkY2IgppNZMi2lBQgD2qzwXkEia16cge2pijY/aXi96CJMquDMn3nJdlPV1A5KrJEXwfLNzQ==",
+      "dev": true,
+      "license": "MIT",
+      "engines": {
+        "node": "^12.0.0 || ^14.0.0 || >=16.0.0"
+
+ "node_modules/@eslint/js": {
+      "version": "8.57.0",
+      "resolved": "https://registry.npmjs.org/@eslint/js/-/js-8.57.0.tgz",
+      "integrity": "sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==",
+      "dev": true,
+      "engines": {
+        "node": "^12.22.0 || ^14.17.0 || >=16.0.0"
+      }
+      =
+       "node_modules/@eslint/js": {
+      "version": "8.57.1",
+      "resolved": "https://registry.npmjs.org/@eslint/js/-/js-8.57.1.tgz",
+      "integrity": "sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q==",
+      "dev": true,
+      "license": "MIT",
+      "engines": {
+        "node": "^12.22.0 || ^14.17.0 || >=16.0.0"
+      }
+
+      package-lock-old.json ja package-lock.json tiedostoissa
+      On melkeinpä jokaisessa modulessa eroavaisuuksia, sillä lockatussa
+      verrattuna uuteen tiedostoon. 
